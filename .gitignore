@@ -7,9 +7,13 @@ Desktop.ini
 Library
 obj
 pc_Data
+.vs
+
+# Files:
 *.csproj
 *.apk
 *sln
 *.userprefs
 *.pdb
 *.exe
+*.unitypackage
