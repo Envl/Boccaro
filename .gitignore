@@ -17,3 +17,6 @@ pc_Data
 *.pdb
 *.exe
 *.unitypackage
+
+# Don't Ignore
+!Boccaro.apk
